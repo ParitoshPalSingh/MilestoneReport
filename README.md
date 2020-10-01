@@ -2,7 +2,7 @@
 ---
 title: "Data Science Capstone - Milestone Report"
 author: "Paritosh Pal Singh"
-date: "May 14, 2017"
+date: "October 1,2020"
 output: 
     html_document:
         toc: true
