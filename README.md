@@ -1,7 +1,7 @@
 # MilestoneReport
 ---
 title: "Data Science Capstone - Milestone Report"
-author: "Gaston Dario Napoli"
+author: "Paritosh Pal Singh"
 date: "May 14, 2017"
 output: 
     html_document:
